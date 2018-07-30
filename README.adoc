@@ -8,8 +8,14 @@ Eventually, it will log each run with full details in a file called "PacketSniff
 <p align="center">
 <img src="https://github.com/SayidHosseini/PacketSniff/blob/master/PacketSniff_InAction.gif"/>
 <br/>
-<strong>Figure 1: PacketSniff in action</strong></p>
+<strong>Figure 1:</strong> PacketSniff in action</p>
 ++++
+
+=== In order to change the program behavior: ===
+* *run_time:* App running time in seconds
+* *max_att_log:* Max number of IPs for DETECTING potential attackers 
+* *pot_att_time:* Time in which we check for DETECTING potential attacks - in Seconds
+* *pot_att_trs:* Threshold of requests in pot_att_time for DETECTING potential_attacks
 
 {empty} +
 
