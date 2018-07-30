@@ -4,9 +4,12 @@ This app takes a Network Interface and monitors TCP/UDP/ICMP traffic on the basi
 
 Eventually, it will log each run with full details in a file called "PacketSniff_log.txt".
 
-[.text-center]
-.PacketSniff in action
-image::https://github.com/SayidHosseini/PacketSniff/blob/master/PacketSniff_InAction.gif[align="center"]
+++++
+<center>
+<img src="https://github.com/SayidHosseini/PacketSniff/blob/master/PacketSniff_InAction.gif"/>
+Figure 1: PacketSniff in action
+</center>
+++++
 
 {empty} +
 
