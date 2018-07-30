@@ -1,0 +1,26 @@
+== PacketSniff ==
+
+This app takes a Network Interface and monitors TCP/UDP/ICMP traffic on the basis of their count, size and difference between the first and last packet of each protocol. Also it checks if a source ip sends more packets than a threshold and detects it as DoS attack. 
+
+Eventually, it will log each run with full details in a file called "PacketSniff_log.txt".
+
+{empty} +
+
+image:PacketSniff_InAction.gif
+
+{empty} +
+{empty} +
+
+== License ==
+
+Copyright (C) 2018 S. Saeed Hosseini. All right reserved.
+
+This application is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This application is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
