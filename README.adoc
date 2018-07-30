@@ -8,7 +8,7 @@ Eventually, it will log each run with full details in a file called "PacketSniff
 <p align="center">
 <img src="https://github.com/SayidHosseini/PacketSniff/blob/master/PacketSniff_InAction.gif"/>
 <br/>
-Figure 1: PacketSniff in action</p>
+<strong>Figure 1: PacketSniff in action</strong></p>
 ++++
 
 {empty} +
